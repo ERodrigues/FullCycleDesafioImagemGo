@@ -1,4 +1,4 @@
-# FullCycleDesafioImagemGo
+# Desafio Full Cycle - Treinamento de Docker
 
 ## Objetivo 
 
